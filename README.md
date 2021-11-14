@@ -1,2 +1,2 @@
 # quiz
-make quiz app by js and array ez
+make quiz app by js and array ez :)
